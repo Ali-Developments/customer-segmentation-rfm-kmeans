@@ -4,7 +4,7 @@ A Data Mining project that applies **RFM Analysis**, **K-Means Clustering**, and
 
 ---
 
-## 👥 Team
+##  Team
 
 | Member | Contribution |
 |---------|--------------|
@@ -17,13 +17,13 @@ A Data Mining project that applies **RFM Analysis**, **K-Means Clustering**, and
 
 ---
 
-# 📖 Project Overview
+#  Project Overview
 
 This project focuses on customer segmentation by transforming transactional retail data into customer behavioral features using the **RFM (Recency, Frequency, Monetary)** model. The processed data is clustered using **K-Means**, while **Apriori Association Rule Mining** is applied to discover products that are frequently purchased together.
 
 ---
 
-# 📂 Dataset
+#  Dataset
 
 **Online Retail Dataset**
 
@@ -42,7 +42,7 @@ Main Features:
 
 ---
 
-# ⚙️ Data Preprocessing
+#  Data Preprocessing
 
 - Removed missing Customer IDs
 - Removed cancelled transactions
@@ -54,7 +54,7 @@ Main Features:
 
 ---
 
-# 📊 Exploratory Data Analysis
+#  Exploratory Data Analysis
 
 - Distribution Analysis
 - Boxplots
@@ -65,7 +65,7 @@ Main Features:
 
 ---
 
-# 🤖 Customer Segmentation
+#  Customer Segmentation
 
 The project applies **RFM Analysis** followed by **K-Means Clustering** to group customers according to their purchasing behavior.
 
@@ -76,7 +76,7 @@ The optimal number of clusters was selected using:
 
 ---
 
-# 🛒 Association Rule Mining
+#  Association Rule Mining
 
 The Apriori Algorithm was applied to discover products frequently purchased together using:
 
@@ -92,7 +92,7 @@ This helps businesses improve:
 
 ---
 
-# 🛠️ Technologies
+#  Technologies
 
 - Python
 - Pandas
@@ -105,7 +105,7 @@ This helps businesses improve:
 
 ---
 
-# 🚀 Results
+#  Results
 
 - Customer segmentation using RFM and K-Means.
 - Cluster evaluation using Elbow Method and Silhouette Score.
@@ -115,11 +115,11 @@ This helps businesses improve:
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 **Ali Mostafa**
 
 AI Engineer | AI Agent Developer
 
 - LinkedIn: https://www.linkedin.com/in/ali-developments/
-- GitHub: https://github.com/Ali-Developments
+- mostaql-Porfolio: https://mostaql.com/u/ALY_MOSTAFA_ALY/portfolio
